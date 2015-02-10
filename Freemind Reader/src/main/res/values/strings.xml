@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FreeMind Reader</string>
+    <string name="title_activity_map_view">FreeMind Reader</string>
+    <string name="browse">Browse</string>
+    <string name="copyLink">Copy Link</string>
+    <string name="copy">Copy Text</string>
+    <string name="bookmark">Bookmark</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
